@@ -5044,39 +5044,72 @@
     ]
 
   },  
-    {
+      {
+
         "ecu": "FRM",
-        "title": "إعادة ترميز لعمل إضاءة أمامية متكيفة (LED Adaptive Headlights)",
-        "description": "يتطلب تغيير FA (VO) لإزالة 5AP و 8S4، ثم عمل VO Code لوحدة FRM.",
+
+        "title": "Recode for Adaptive Front Lighting (LED Adaptive Headlights)",
+
+        "description": "Requires changing FA (VO) to remove 5AP & 8S4, then perform VO Code on the FRM module.",
+
         "steps": [
+
             "Change FA (VO) to Remove 5AP & 8S4 from VO",
+
             "VO Code FRM Module",
+
             "Read FA(VO)→Activate FA(VO)→Read SVT Right-Click ECU & Select Code"
+
         ],
+
         "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+
     },
+
     {
+
         "ecu": "KAFAS2",
-        "title": "إعادة ترميز لعمل إضاءة أمامية متكيفة (LED Adaptive Headlights)",
-        "description": "يتطلب تغيير FA (VO) لإزالة 5AP و 8S4، ثم عمل VO Code لوحدة KAFAS2.",
+
+        "title": "Recode for Adaptive Front Lighting (LED Adaptive Headlights)",
+
+        "description": "Requires changing FA (VO) to remove 5AP & 8S4, then perform a VO Code on the KAFAS2 module.",
+
         "steps": [
+
             "Change FA (VO) to Remove 5AP & 8S4 from VO",
+
             "VO Code KAFAS2 Module",
+
             "Read FA(VO)→Activate FA(VO)→Read SVT Right-Click ECU & Select Code"
+
         ],
+
         "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+
     },
+
     {
+
         "ecu": "HU_CIC/NBT",
-        "title": "إعادة ترميز لتعزيز البلوتوث (Enhanced Bluetooth)",
-        "description": "أو إعادة ترميز إذا كان الترميز موجودًا بالفعل. يتطلب تغيير FA (VO) لإزالة 6NH وإضافة 6NS.",
+
+        "title": "Recode for Enhanced Bluetooth",
+
+        "description": "Or recode if the coding already exists. Requires changing FA (VO) to remove 6NH and add 6NS.",
+
         "steps": [
+
             "Change FA (VO) to Remove 6NH from VO & Add 6NS to VO",
+
             "VO Code HU_CIC/NBT",
+
             "Read FA(VO)→Activate FA(VO)→Read SVT Right-Click ECU & Select Code"
+
         ],
+
         "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+
     },
+
     {
       "ecu": "ASCM",
       "title": "Disable Seatbelt Reminder Light - Passenger",
