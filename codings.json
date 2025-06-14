@@ -1185,67 +1185,83 @@
         ]
     },
     {
-        "series": "",
-        "ecu": "HU_CIC/NBT_EVO",
-        "description": " F36 – Changes Navigation Voice from English to British English",
+        "ecu": "HU_ENTRY/HU_CIC/NBT",
+        "id": "",
+        "function": "",
+        "title": "",
+        "description": "F36 – Changes Navigation Voice from English to British English",
         "steps": [
             "1. [1/2] - HU_CIC/NBT_EVO -> 3007 LANGUAGE, 32 -> LANGUAGE_ENGLISH_UK -> - set to master",
             "2. [2/2] - HU_CIC/NBT_EVO -> 3007 LANGUAGE, 32 -> LANGUAGE_ENGLISH_US -> - set to nicht_aktiv"
         ]
     },
     {
-        "series": "",
-        "ecu": "HU_CIC/NBT_EVO",
-        "description": " F36 – Enables importing a trip into Navigation via USB Drive",
+        "ecu": "HU_ENTRY/HU_CIC/NBT",
+        "id": "",
+        "function": "",
+        "title": "",
+        "description": "F36 – Enables importing a trip into Navigation via USB Drive",
         "steps": [
             "1. HU_CIC/NBT_EVO -> 3006 NAVIGATION, 64 -> NAVI_TRIP_IMPORT -> - set to aktiv"
         ]
     },
     {
-        "series": "",
-        "ecu": "HU_CIC/NBT_EVO",
-        "description": " F36 – Disable house number first on destination input screen",
+        "ecu": "HU_ENTRY/HU_CIC/NBT",
+        "id": "",
+        "function": "",
+        "title": "",
+        "description": "F36 – Disable house number first on destination input screen",
         "steps": [
             "1. HU_CIC/NBT_EVO -> 3006 NAVI -> NAVI_DESTINATION_INPUT_US -> - set to nicht_aktiv"
         ]
     },
     {
-        "series": "",
-        "ecu": "HU_CIC/NBT_EVO",
-        "description": " F36 – Adds Developer Menu to Settings. (Shows Build/Date/Versions/etc)",
+        "ecu": "HU_ENTRY/HU_CIC/NBT",
+        "id": "",
+        "function": "",
+        "title": "",
+        "description": "F36 – Adds Developer Menu to Settings. (Shows Build/Date/Versions/etc)",
         "steps": [
             "1. HU_CIC/NBT_EVO -> 3006 NAVIGATION, 64 -> ENTWICKLER_MENUE -> - set to aktiv"
         ]
     },
     {
-        "series": "",
-        "ecu": "HU_CIC/NBT_EVO",
-        "description": " F36 – Enable Video Playback via USB (.avi, .mp4, .mkv, .m4v, etc.)",
+        "ecu": "HU_ENTRY/HU_CIC/NBT",
+        "id": "",
+        "function": "",
+        "title": "",
+        "description": "F36 – Enable Video Playback via USB (.avi, .mp4, .mkv, .m4v, etc.)",
         "steps": [
             "1. HU_CIC/NBT_EVO -> 3003 TELEPHON_TELEMATIK_ONLINE, 95 -> API_USB_VIDEO -> - set to both"
         ]
     },
     {
-        "series": "",
-        "ecu": "HU_CIC/NBT_EVO",
-        "description": " F36 – Set volume level to be retained at 40% rather than startup on 25%",
+        "ecu": "HU_ENTRY/HU_CIC/NBT",
+        "id": "",
+        "function": "",
+        "title": "",
+        "description": "F36 – Set volume level to be retained at 40% rather than startup on 25%",
         "steps": [
             "1. HU_CIC/NBT_EVO -> 3002 AUDIO_TUNER_TRAFFIC, 96 -> VOL_MAX_ON -> - set to werte=28"
         ]
     },
     {
-        "series": "",
-        "ecu": "HU_CIC/NBT_EVO",
-        "description": " F36 – Disable Legal Disclaimers",
+        "ecu": "HU_ENTRY/HU_CIC/NBT",
+        "id": "",
+        "function": "",
+        "title": "",
+        "description": "F36 – Disable Legal Disclaimers",
         "steps": [
             "1. Removes iDrive Initial Disclaimer - HU_CIC/NBT_EVO -> 3001 EXBOX, 96 -> LEGAL_DISCLAIMER_TIME -> - set to kein_ld",
             "2. Removes disclaimer for all cameras and PDC - HU_CIC/NBT_EVO -> 3001 EXBOX, 96 -> MACRO_CAM_LEGALDISCLAIMER -> - set to kein_ld"
         ]
     },
     {
-        "series": "",
-        "ecu": "HU_CIC/NBT_EVO",
-        "description": " F36 – Removes speed requirement to watch videos",
+        "ecu": "HU_ENTRY/HU_CIC/NBT",
+        "id": "",
+        "function": "",
+        "title": "",
+        "description": "F36 – Removes speed requirement to watch videos",
         "steps": [
             "1. HU_CIC/NBT_EVO -> 3000 HMI, 96 -> VIDEO_SPEEDLOCK_CONDITION -> - set to none",
             "2. HU_CIC/NBT_EVO -> 3000 HMI, 96 -> VIDEO_HANDBRAKE -> - set to nicht_aktiv",
@@ -7783,8 +7799,10 @@
         ]
     },
     {
-        "series": "F36",
-        "ecu": "HU_CIC/NBT_EVO",
+        "ecu": "HU_ENTRY/HU_CIC/NBT",
+        "id": "",
+        "function": "",
+        "title": "",
         "description": "Removes speed requirement to watch videos",
         "steps": [
             "1. HU_CIC/NBT_EVO -> 3000 -> VIDEO_SPEEDLOCK_CONDITION -> set to none",
