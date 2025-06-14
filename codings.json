@@ -5337,718 +5337,718 @@
       ],
       "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
     },
-    {
-        "ecu": "FRM",
-        "title": "وميض قوة الفرامل عند الفرملة الشديدة: ESS_GESCHW_SCHWELLE",
-        "description": "تعيين ESS_GESCHW_SCHWELLE إلى US.",
-        "steps": [
-            "3050 ESS_GESCHW_SCHWELLE: set to: US - werte = 05"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "FRM",
-        "title": "مساعد الضوء العالي - تشغيل تلقائي: FLA_AUTO_AKTIV",
-        "description": "تعيين FLA_AUTO_AKTIV إلى automatisch.",
-        "steps": [
-            "3050 FLA_AUTO_AKTIV: set to: automatisch - werte = 01"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "FRM",
-        "title": "مساعد الضوء العالي - تشغيل تلقائي: FLA_VERBAUT",
-        "description": "تعيين FLA_VERBAUT إلى aktiv.",
-        "steps": [
-            "3050 FLA_VERBAUT: set to: aktiv"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "FRM",
-        "title": "أضواء الترحيب - إضافة أضواء إلى أضواء الترحيب: الضوء المنخفض",
-        "description": "تعيين WL_FUNKTION_AL إلى nicht_aktiv.",
-        "steps": [
-            "3050 WL_FUNKTION_AL: set to: nicht_aktiv - werte = 00"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "FRM",
-        "title": "أضواء الترحيب - إضافة أضواء إلى أضواء الترحيب: الضوء العالي",
-        "description": "تعيين WL_FUNKTION_FL إلى nicht_aktiv.",
-        "steps": [
-            "3050 WL_FUNKTION_FL: set to: nicht_aktiv - werte = 00"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "FRM",
-        "title": "أضواء الترحيب - إضافة أضواء إلى أضواء الترحيب: لوحة الترخيص",
-        "description": "تعيين WL_FUNKTION_KZL إلى hard_on.",
-        "steps": [
-            "3050 WL_FUNKTION_KZL: set to: hard_on - werte = 02"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "FRM",
-        "title": "أضواء الترحيب - إضافة أضواء إلى أضواء الترحيب: أضواء الضباب",
-        "description": "تعيين WL_FUNKTION_NSW إلى hard_on.",
-        "steps": [
-            "3050 WL_FUNKTION_NSW: set to: hard_on - werte = 02"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "FRM",
-        "title": "أضواء الترحيب - إضافة أضواء إلى أضواء الترحيب: الأضواء الخلفية",
-        "description": "تعيين WL_FUNKTION_SSL إلى hard_on.",
-        "steps": [
-            "3050 WL_FUNKTION_SSL: set to: hard_on - werte = 02"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "HKFM LS",
-        "title": "إغلاق/فتح الصندوق من المفتاح (Fob) ولوحة الركل: SCH_FBD",
-        "description": "تستغرق ما يصل إلى 30 دقيقة لتبدأ العمل بعد الترميز. تعيين SCH_FBD إلى aktiv.",
-        "steps": [
-            "3010 SCH_FBD: set to: aktiv - werte = 01"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "HKFM LS",
-        "title": "إغلاق/فتح الصندوق من المفتاح (Fob) ولوحة الركل: SCH_TOEHKI",
-        "description": "تستغرق ما يصل إلى 30 دقيقة لتبدأ العمل بعد الترميز. تعيين SCH_TOEHKI إلى aktiv.",
-        "steps": [
-            "3010 SCH_TOEHKI: set to: aktiv - werte = 01"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "HKFM LS",
-        "title": "إغلاق/فتح الصندوق من المفتاح (Fob) ولوحة الركل: TASTER_FBD",
-        "description": "تستغرق ما يصل إلى 30 دقيقة لتبدأ العمل بعد الترميز. تعيين TASTER_FBD إلى aktiv.",
-        "steps": [
-            "3010 TASTER_FBD: set to: aktiv - werte = 01"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "HU_CIC/NBT",
-        "title": "مساعد الضوء العالي - تشغيل تلقائي (HIGH_BEAM_ASSISTANT)",
-        "description": "تعيين HIGH_BEAM_ASSISTANT إلى aktiv.",
-        "steps": [
-            "3000 HIGH_BEAM_ASSISTANT: set to: aktiv"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "HU_CIC/NBT",
-        "title": "تعيين رنين الهاتف الخلوي كـ أساسي (INBAND_RINGING)",
-        "description": "تعيين INBAND_RINGING إلى aktiv.",
-        "steps": [
-            "3001 INBAND_RINGING: set to: aktiv"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "HU_CIC/NBT",
-        "title": "تمكين التحكم الصوتي Siri",
-        "description": "تعيين CE_DEVICE_SPEECH_RECOGNITION إلى aktiv.",
-        "steps": [
-            "3003 CE_DEVICE_SPEECH_RECOGNITION: set to: aktiv"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "HU_CIC/NBT",
-        "title": "تعطيل القفل التلقائي للأبواب بمجرد بدء القيادة",
-        "description": "تعيين DOOR_LOCK_AFTER_DRIVING_AWAY إلى nicht_aktiv.",
-        "steps": [
-            "3000 DOOR_LOCK_AFTER_DRIVING_AWAY: set to: nicht_aktiv"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "HU_CIC/NBT",
-        "title": "تمكين ///M LapTmer",
-        "description": "تعيين M_LAPTIMER إلى aktiv.",
-        "steps": [
-            "3000 M_LAPTIMER: set to: aktiv"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "HU_CIC/NBT",
-        "title": "تمكين شاشات العرض الرياضية: EFF_DYN_SPORT_CID",
-        "description": "تعيين EFF_DYN_SPORT_CID إلى aktiv.",
-        "steps": [
-            "3000 EFF_DYN_SPORT_CID: set to: aktiv"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "HU_CIC/NBT",
-        "title": "تمكين شاشات العرض الرياضية: EFF_DYN_SPORT_UNIT",
-        "description": "تعيين EFF_DYN_SPORT_UNIT إلى aktiv.",
-        "steps": [
-            "3000 EFF_DYN_SPORT_UNIT: set to: aktiv"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "KOMBI",
-        "title": "تغيير الوحدات المعروضة في الشاشات الرياضية إلى ft lb و hp: DREHMOMENT",
-        "description": "تعيين DREHMOMENT إلى lb_ft.",
-        "steps": [
-            "3008 DREHMOMENT: set to: lb_ft (displays ft lb)"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "KOMBI",
-        "title": "تغيير الوحدات المعروضة في الشاشات الرياضية إلى ft lb و hp: LEISTUNG",
-        "description": "تعيين LEISTUNG إلى ps.",
-        "steps": [
-            "3008 LEISTUNG: set to: ps (displays hp)"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "HU_CIC/NBT",
-        "title": "تمكين عرض مستوى الصوت على الشاشة",
-        "description": "تعيين VOLUME_POPUP_DISPLAY إلى aktiv.",
-        "steps": [
-            "3002 VOLUME_POPUP_DISPLAY: set to: aktiv"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "HU_CIC/NBT",
-        "title": "تمكين إشارات الانعطاف في شاشة العرض الرأسية (HUD)",
-        "description": "تعيين HUD_TURNSIGNAL إلى aktiv.",
-        "steps": [
-            "3001 HUD_TURNSIGNAL: set to: aktiv"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "HU_CIC/NBT",
-        "title": "تفعيل DVD-in-Motion: SPEEDLOCK_X_KMH_MAX",
-        "description": "تعيين SPEEDLOCK_X_KMH_MAX إلى werte = FF.",
-        "steps": [
-            "3000 SPEEDLOCK_X_KMH_MAX: werte = FF"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "HU_CIC/NBT",
-        "title": "تفعيل DVD-in-Motion: SPEEDLOCK_X_KMH_MIN",
-        "description": "تعيين SPEEDLOCK_X_KMH_MIN إلى werte = FF.",
-        "steps": [
-            "3000 SPEEDLOCK_X_KMH_MIN: werte = FF"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "HU_CIC/NBT",
-        "title": "تفعيل DVD-in-Motion: VIDEO_HANDBRAKE",
-        "description": "تعيين VIDEO_HANDBRAKE إلى nicht_aktiv.",
-        "steps": [
-            "3000 VIDEO_HANDBRAKE: set to: nicht_aktiv"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "HU_CIC/NBT",
-        "title": "تفعيل DVD-in-Motion: VIDEO_FRONT_LOCKED",
-        "description": "تعيين VIDEO_FRONT_LOCKED إلى nicht_aktiv.",
-        "steps": [
-            "3000 VIDEO_FRONT_LOCKED: set to: nicht_aktiv"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "HU_CIC/NBT",
-        "title": "تفعيل DVD-in-Motion: VIDEO_SPEEDLOCK_CONDITION",
-        "description": "تعيين VIDEO_SPEEDLOCK_CONDITION إلى none.",
-        "steps": [
-            "3000 VIDEO_SPEEDLOCK_CONDITION: set to: none = 00"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "HU_CIC/NBT",
-        "title": "تغيير صوت نظام الملاحة إلى الإنجليزية البريطانية",
-        "description": "تعيين VOICE_LANGUAGE_RR_US إلى aktiv.",
-        "steps": [
-            "3000 VOICE_LANGUAGE_RR_US: set to: aktiv"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "HU_CIC/NBT",
-        "title": "تغيير لغة نظام الملاحة إلى الإنجليزية البريطانية",
-        "description": "تعيين LANGUAGE_ENGLISH_UK إلى master و LANGUAGE_ENGLISH_US إلى nicht_aktiv.",
-        "steps": [
-            "3000 LANGUAGE_ENGLISH_UK: set to: master",
-            "3000 LANGUAGE_ENGLISH_US: set to: nicht_aktiv"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "HU_CIC/NBT",
-        "title": "استيراد رحلة الملاحة",
-        "description": "تعيين NAVI_TRIP_IMPORT إلى aktiv.",
-        "steps": [
-            "3000 NAVI_TRIP_IMPORT: set to: aktiv"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "HU_CIC/NBT",
-        "title": "اقتراح محطات الوقود في نظام الملاحة على طول الطريق",
-        "description": "تعيين NAVI_FUELSTOP_PROPOSAL إلى aktiv.",
-        "steps": [
-            "3000 NAVI_FUELSTOP_PROPOSAL: set to: aktiv"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "HU_CIC/NBT",
-        "title": "تمكين ملفات الفيديو من USB: ENT_CODEC_XVID",
-        "description": "تعيين ENT_CODEC_XVID إلى aktiv.",
-        "steps": [
-            "3000 ENT_CODEC_XVID: set to: aktiv"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "HU_CIC/NBT",
-        "title": "تمكين ملفات الفيديو من USB: ENT_CODEC_XVCD",
-        "description": "تعيين ENT_CODEC_XVCD إلى aktiv.",
-        "steps": [
-            "3000 ENT_CODEC_XVCD: set to: aktiv"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "HU_CIC/NBT",
-        "title": "تمكين ملفات الفيديو من USB: API_USB_VIDEO",
-        "description": "تعيين API_USB_VIDEO إلى both.",
-        "steps": [
-            "3003 API_USB_VIDEO: set to: both"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "HU_CIC/NBT",
-        "title": "إضافة الموقع الحالي لنظام تحديد المواقع (GPS) إلى عناصر قائمة الملاحة",
-        "description": "تعيين NAVI_POSITION_MENU إلى aktiv.",
-        "steps": [
-            "3000 NAVI_POSITION_MENU: set to: aktiv"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "HU_CIC/NBT",
-        "title": "إضافة إشارات الانعطاف إلى شاشة العرض الرأسية (HUD)",
-        "description": "تعيين HUD_TURNSIGNAL إلى aktiv.",
-        "steps": [
-            "3000 HUD_TURNSIGNAL: set to: aktiv"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "HU_CIC/NBT",
-        "title": "إضافة راديو Weather Band (CIC فقط)",
-        "description": "تعيين RADIO_WEATHERBAND إلى aktiv.",
-        "steps": [
-            "3002 RADIO_WEATHERBAND: set to: aktiv"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "HU_CIC/NBT",
-        "title": "تمكين وظيفة حفظ ملفات الفيديو على محرك الأقراص الثابتة NBT للتشغيل لاحقًا",
-        "description": "تعيين ENT_MC_VIDEO_SUPPORT إلى aktiv.",
-        "steps": [
-            "3000 ENT_MC_VIDEO_SUPPORT: set to: aktiv"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "HU_CIC/NBT",
-        "title": "تعطيل قفل سرعة وظيفة Office",
-        "description": "تعيين OFFICE_MESSAGES_SPEEDLOCK_CONDITION إلى nicht_aktiv.",
-        "steps": [
-            "3000 OFFICE_MESSAGES_SPEEDLOCK_CONDITION: set to: nicht_aktiv"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "HU_CIC/NBT",
-        "title": "تمكين خطوط النص الكاملة في Office أثناء القيادة",
-        "description": "تعيين PIM_DRIVING_TEXT_LENGTH إلى whole text_07.",
-        "steps": [
-            "3003 PIM_DRIVING_TEXT_LENGTH: set to: whole text_07"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "HU_CIC/NBT",
-        "title": "تعطيل صوت الصفير/الرنين عند قفل السيارة",
-        "description": "تعيين ACOUSTICAL_LOCK_CONFIRM إلى nicht_aktiv.",
-        "steps": [
-            "3000 ACOUSTICAL_LOCK_CONFIRM: set to: nicht_aktiv"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "HU_CIC/NBT",
-        "title": "تمكين إدخال الصوت للبريد الإلكتروني أو الرسائل القصيرة",
-        "description": "تعيين SPEECH_2_TEXT إلى aktiv.",
-        "steps": [
-            "3003 SPEECH_2_TEXT: set to: aktiv"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "HU_CIC/NBT",
-        "title": "تمكين عرض الطابع الزمني لسجل المكالمات",
-        "description": "تعيين TIMESTAMP_DISPLAY إلى aktiv.",
-        "steps": [
-            "3003 TIMESTAMP_DISPLAY: set to: aktiv"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "HU_CIC/NBT",
-        "title": "إضافة درجة الحرارة و PSI إلى شاشة مراقبة الإطارات",
-        "description": "تعيين RDC_SAFETY إلى aktiv.",
-        "steps": [
-            "3001 RDC_SAFETY: set to: aktiv"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "HU_CIC/NBT",
-        "title": "تعطيل إخلاء المسؤولية القانونية: LEGAL_DISCLAIMER_TIME",
-        "description": "تعيين LEGAL_DISCLAIMER_TIME إلى kein_ld.",
-        "steps": [
-            "3001 LEGAL_DISCLAIMER_TIME: set to: kein_ld"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "HU_CIC/NBT",
-        "title": "تعطيل إخلاء المسؤولية القانونية: MACRO_CAM_LEGALDISCLAIMER",
-        "description": "تعيين MACRO_CAM_LEGALDISCLAIMER إلى kein_ld.",
-        "steps": [
-            "3001 MACRO_CAM_LEGALDISCLAIMER: set to: kein_ld"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "HU_CIC/NBT",
-        "title": "تعطيل إخلاء المسؤولية القانونية: MACRO_NVICAM_LDISCLAIMER",
-        "description": "تعيين MACRO_NVICAM_LDISCLAIMER إلى kein_ld.",
-        "steps": [
-            "3001 MACRO_NVICAM_LDISCLAIMER: set to: kein_ld"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "HU_CIC/NBT",
-        "title": "تغيير رسوم بدء تشغيل i-Drive إلى شعار ///M",
-        "description": "تعيين STARTUP_EMBLEM إلى variant_01.",
-        "steps": [
-            "3001 STARTUP_EMBLEM: set to: variant_01"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "HU_CIC/NBT",
-        "title": "تمكين خادم الويب IPCE على 172.16.222.1",
-        "description": "تعيين IPCE_WEBSERVER إلى aktiv.",
-        "steps": [
-            "3000 IPCE_WEBSERVER: set to: aktiv"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "HU_CIC/NBT",
-        "title": "تمكين نقطة اتصال WiFi: ENT_MC_WLAN_STREAM_DMP_COVERART",
-        "description": "تعيين ENT_MC_WLAN_STREAM_DMP_COVERART إلى aktiv.",
-        "steps": [
-            "3000 ENT_MC_WLAN_STREAM_DMP_COVERART: set to: aktiv"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "HU_CIC/NBT",
-        "title": "تمكين نقطة اتصال WiFi: ENT_MC_WLAN_STREAM_DMP_VIDEO",
-        "description": "تعيين ENT_MC_WLAN_STREAM_DMP_VIDEO إلى aktiv.",
-        "steps": [
-            "3000 ENT_MC_WLAN_STREAM_DMP_VIDEO: set to: aktiv"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "HU_CIC/NBT",
-        "title": "تمكين نقطة اتصال WiFi: ENT_MC_WLAN_STREAM_DMP",
-        "description": "تعيين ENT_MC_WLAN_STREAM_DMP إلى aktiv.",
-        "steps": [
-            "3000 ENT_MC_WLAN_STREAM_DMP: set to: aktiv"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "HU_CIC/NBT",
-        "title": "تمكين نقطة اتصال WiFi: WLAN_STATUS",
-        "description": "تعيين WLAN_STATUS إلى aktiv.",
-        "steps": [
-            "3003 WLAN_STATUS: set to: aktiv"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "HU_CIC/NBT",
-        "title": "تمكين نقطة اتصال WiFi: WLAN_MODUS",
-        "description": "تعيين WLAN_MODUS إلى ap.",
-        "steps": [
-            "3003 WLAN_MODUS: set to: ap"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "HU_CIC/NBT",
-        "title": "تمكين نقطة اتصال WiFi: WLAN_SIGNAL_STRENGTH",
-        "description": "تعيين WLAN_SIGNAL_STRENGTH إلى outdoor.",
-        "steps": [
-            "3003 WLAN_SIGNAL_STRENGTH: set to: outdoor"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "HU_CIC/NBT",
-        "title": "تمكين قائمة المطور (Developer Menu)",
-        "description": "تعيين ENTWICKLER_MENUE إلى aktiv 01.",
-        "steps": [
-            "3000 ENTWICKLER_MENUE: set to: aktiv 01"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "IHKA",
-        "title": "نظام تكييف الهواء يتذكر الإعداد الأخير",
-        "description": "تعيين OFF_MEMORY إلى aktiv.",
-        "steps": [
-            "3000 OFF_MEMORY: set to aktiv-werte = 01"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "IHKA",
-        "title": "دائماً تذكر إعادة تدوير الهواء",
-        "description": "تعيين MEMORY_UMLUFT إلى aktiv.",
-        "steps": [
-            "3000 MEMORY_UMLUFT: set to: aktiv"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "JBBF",
-        "title": "فتح الأبواب الخلفية لن يقاطع النوافذ",
-        "description": "تعيين FH_TUER_AUF_STOP_MAUT إلى nickt_aktiv.",
-        "steps": [
-            "3070 FH_TUER_AUF_STOP_MAUT: set to nickt_aktiv - werte = 00"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "JBBF",
-        "title": "تعطيل غسالات المصابيح الأمامية",
-        "description": "تعيين SCHEINWERFERREINIGUNG إلى nicht_aktiv.",
-        "steps": [
-            "3000 SCHEINWERFERREINIGUNG: set to: nicht_aktiv"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "JBBF",
-        "title": "زيادة حساسية المساحات التلقائية: RLS_FLC_SCHWELLWERT_SATZ_1",
-        "description": "تعيين RLS_FLC_SCHWELLWERT_SATZ_1 إلى werte = 05.",
-        "steps": [
-            "3530 RLS_FLC_SCHWELLWERT_SATZ_1: set to: werte = 05"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "JBBF",
-        "title": "زيادة حساسية المساحات التلقائية: RLS_FLC_SCHWELLWERT_SATZ_2",
-        "description": "تعيين RLS_FLC_SCHWELLWERT_SATZ_2 إلى werte = 09.",
-        "steps": [
-            "3530 RLS_FLC_SCHWELLWERT_SATZ_2: set to: werte = 09"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "JBBF",
-        "title": "زيادة حساسية المساحات التلقائية: RLS_FLC_SCHWELLWERT_SATZ_3",
-        "description": "تعيين RLS_FLC_SCHWELLWERT_SATZ_3 إلى werte = 0D.",
-        "steps": [
-            "3530 RLS_FLC_SCHWELLWERT_SATZ_3: set to: werte = 0D"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "JBBF",
-        "title": "زيادة حساسية الإضاءة التلقائية: RLS_DEF_FLC_SCHWELLWERT_SATZ",
-        "description": "تعيين RLS_DEF_FLC_SCHWELLWERT_SATZ إلى خيار أدناه.",
-        "steps": [
-            "3530 RLS_DEF_FLC_SCHWELLWERT_SATZ: set to: option below (normal, sensitive, very_sensitive, insensitive)"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "JBBF",
-        "title": "زيادة حساسية الإضاءة التلقائية: RLS_FLC_SCHWELLWERT_SATZ",
-        "description": "تعيين RLS_FLC_SCHWELLWERT_SATZ إلى خيار أدناه.",
-        "steps": [
-            "3530 RLS_FLC_SCHWELLWERT_SATZ: set to: option below (normal, sensitive, very_sensitive, insensitive)"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "KAFAS2",
-        "title": "مساعد الضوء العالي - تشغيل تلقائي: FLA_ON_OFF",
-        "description": "تعيين FLA_ON_OFF إلى aktiv.",
-        "steps": [
-            "3050 FLA_ON_OFF: set to: aktiv - werte = 01"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "KOMBI",
-        "title": "عرض السرعة الرقمية بالميل في الساعة في لوحة العدادات",
-        "description": "تعيين BC_DIGITAL_V إلى aktiv.",
-        "steps": [
-            "3000 BC_DIGITAL_V: set to: aktiv-werte = 01"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "KOMBI",
-        "title": "عرض إشارات الانعطاف في شاشة العرض الرأسية (HUD): HUD_PIA_BLINKER",
-        "description": "تعيين HUD_PIA_BLINKER إلى aktiv.",
-        "steps": [
-            "3008 HUD_PIA_BLINKER: set to: aktiv"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "KOMBI",
-        "title": "عرض إشارات الانعطاف في شاشة العرض الرأسية (HUD): BLINKER_HUD_ENABLE",
-        "description": "تعيين BLINKER_HUD_ENABLE إلى aktiv.",
-        "steps": [
-            "3000 BLINKER_HUD_ENABLE: set to: aktiv"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "KOMBI",
-        "title": "تمكين مزامنة GPS للساعة",
-        "description": "تعيين GPS_UHR إلى aktiv.",
-        "steps": [
-            "3000 GPS_UHR: set to: aktiv"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "KOMBI",
-        "title": "تمكين HUD للترفيه وقائمة الهاتف: HUD_ENTERTAINMENT_ENABLE",
-        "description": "يضيف مربع اختيار ضمن إعدادات HUD - قائمة معلومات العرض. تعيين HUD_ENTERTAINMENT_ENABLE إلى aktiv.",
-        "steps": [
-            "3000 HUD_ENTERTAINMENT_ENABLE: set to: aktiv"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "KOMBI",
-        "title": "تمكين HUD للترفيه وقائمة الهاتف: HUD_TELEFONANRUF_ENABLE",
-        "description": "تعيين HUD_TELEFONANRUF_ENABLE إلى aktiv.",
-        "steps": [
-            "3000 HUD_TELEFONANRUF_ENABLE: set to: aktiv"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "KOMBI",
-        "title": "تمكين HUD للترفيه وقائمة الهاتف: HUD_TELEFONBUCH_ENABLE",
-        "description": "تعيين HUD_TELEFONBUCH_ENABLE إلى aktiv.",
-        "steps": [
-            "3000 HUD_TELEFONBUCH_ENABLE: set to: aktiv"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "KOMBI",
-        "title": "تمكين HUD للترفيه وقائمة الهاتف: HUD_ENTERTAINMENTLIST",
-        "description": "تعيين HUD_ENTERTAINMENTLIST إلى aktiv.",
-        "steps": [
-            "3000 HUD_ENTERTAINMENTLIST: set to: aktiv"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "PDC",
-        "title": "تمكين كاميرا الرؤية الخلفية في جميع السرعات: D_SCHWELLE_2",
-        "description": "تعيين D_SCHWELLE_2 إلى werte = FF.",
-        "steps": [
-            "3009 D_SCHWELLE_2: Werte = FF"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "PDC",
-        "title": "تمكين كاميرا الرؤية الخلفية في جميع السرعات: V_SCHWELLE_2",
-        "description": "تعيين V_SCHWELLE_2 إلى werte = FF.",
-        "steps": [
-            "3009 V_SCHWELLE_2: Werte = FF"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "SZL",
-        "title": "تمكين مبدلات السرعة (Paddle Shifters) (لعمليات التعديل)",
-        "description": "تعيين Lenkrad_Schaltpaddles إلى aktiv.",
-        "steps": [
-            "3000 Lenkrad_Schaltpaddles: set to: aktiv"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "TRSVC",
-        "title": "تمكين كاميرات الرؤية الجانبية في جميع السرعات: SV_Activate_Speed_Limit",
-        "description": "تعيين SV_Activate_Speed_Limit إلى werte = FF.",
-        "steps": [
-            "3000 SV_Activate_Speed_Limit: Werte = FF"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
-    {
-        "ecu": "TRSVC",
-        "title": "تمكين كاميرات الرؤية الجانبية في جميع السرعات: SV_Deactivate_Speed",
-        "description": "تعيين SV_Deactivate_Speed إلى werte = FF.",
-        "steps": [
-            "3000 SV_Deactivate_Speed: Werte = FF"
-        ],
-        "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
-    },
+{
+    "ecu": "FRM",
+    "title": "Brake Force Flashing on Hard Braking: ESS_GESCHW_SCHWELLE",
+    "description": "Set ESS_GESCHW_SCHWELLE to US.",
+    "steps": [
+        "3050 ESS_GESCHW_SCHWELLE: set to: US - werte = 05"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "FRM",
+    "title": "High Beam Assistant - Auto-On: FLA_AUTO_AKTIV",
+    "description": "Set FLA_AUTO_AKTIV to automatisch.",
+    "steps": [
+        "3050 FLA_AUTO_AKTIV: set to: automatisch - werte = 01"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "FRM",
+    "title": "High Beam Assistant - Auto-On: FLA_VERBAUT",
+    "description": "Set FLA_VERBAUT to aktiv.",
+    "steps": [
+        "3050 FLA_VERBAUT: set to: aktiv"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "FRM",
+    "title": "Welcome Lights - Add Lights to Welcome Lights: Low Beam",
+    "description": "Set WL_FUNKTION_AL to nicht_aktiv.",
+    "steps": [
+        "3050 WL_FUNKTION_AL: set to: nicht_aktiv - werte = 00"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "FRM",
+    "title": "Welcome Lights - Add Lights to Welcome Lights: High Beam",
+    "description": "Set WL_FUNKTION_FL to nicht_aktiv.",
+    "steps": [
+        "3050 WL_FUNKTION_FL: set to: nicht_aktiv - werte = 00"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "FRM",
+    "title": "Welcome Lights - Add Lights to Welcome Lights: License Plate",
+    "description": "Set WL_FUNKTION_KZL to hard_on.",
+    "steps": [
+        "3050 WL_FUNKTION_KZL: set to: hard_on - werte = 02"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "FRM",
+    "title": "Welcome Lights - Add Lights to Welcome Lights: Fog Lights",
+    "description": "Set WL_FUNKTION_NSW to hard_on.",
+    "steps": [
+        "3050 WL_FUNKTION_NSW: set to: hard_on - werte = 02"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "FRM",
+    "title": "Welcome Lights - Add Lights to Welcome Lights: Tail Lights",
+    "description": "Set WL_FUNKTION_SSL to hard_on.",
+    "steps": [
+        "3050 WL_FUNKTION_SSL: set to: hard_on - werte = 02"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "HKFM LS",
+    "title": "Close/Open Trunk from Fob and Kick Panel: SCH_FBD",
+    "description": "Takes up to 30 minutes to start working after coding. Set SCH_FBD to aktiv.",
+    "steps": [
+        "3010 SCH_FBD: set to: aktiv - werte = 01"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "HKFM LS",
+    "title": "Close/Open Trunk from Fob and Kick Panel: SCH_TOEHKI",
+    "description": "Takes up to 30 minutes to start working after coding. Set SCH_TOEHKI to aktiv.",
+    "steps": [
+        "3010 SCH_TOEHKI: set to: aktiv - werte = 01"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "HKFM LS",
+    "title": "Close/Open Trunk from Fob and Kick Panel: TASTER_FBD",
+    "description": "Takes up to 30 minutes to start working after coding. Set TASTER_FBD to aktiv.",
+    "steps": [
+        "3010 TASTER_FBD: set to: aktiv - werte = 01"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "HU_CIC/NBT",
+    "title": "High Beam Assistant - Auto-On (HIGH_BEAM_ASSISTANT)",
+    "description": "Set HIGH_BEAM_ASSISTANT to aktiv.",
+    "steps": [
+        "3000 HIGH_BEAM_ASSISTANT: set to: aktiv"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "HU_CIC/NBT",
+    "title": "Set Cell Phone Ringtone as Primary (INBAND_RINGING)",
+    "description": "Set INBAND_RINGING to aktiv.",
+    "steps": [
+        "3001 INBAND_RINGING: set to: aktiv"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "HU_CIC/NBT",
+    "title": "Enable Siri Voice Control",
+    "description": "Set CE_DEVICE_SPEECH_RECOGNITION to aktiv.",
+    "steps": [
+        "3003 CE_DEVICE_SPEECH_RECOGNITION: set to: aktiv"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "HU_CIC/NBT",
+    "title": "Disable Auto-Locking of Doors Once Driving Begins",
+    "description": "Set DOOR_LOCK_AFTER_DRIVING_AWAY to nicht_aktiv.",
+    "steps": [
+        "3000 DOOR_LOCK_AFTER_DRIVING_AWAY: set to: nicht_aktiv"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "HU_CIC/NBT",
+    "title": "Enable ///M LapTimer",
+    "description": "Set M_LAPTIMER to aktiv.",
+    "steps": [
+        "3000 M_LAPTIMER: set to: aktiv"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "HU_CIC/NBT",
+    "title": "Enable Sports Displays: EFF_DYN_SPORT_CID",
+    "description": "Set EFF_DYN_SPORT_CID to aktiv.",
+    "steps": [
+        "3000 EFF_DYN_SPORT_CID: set to: aktiv"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "HU_CIC/NBT",
+    "title": "Enable Sports Displays: EFF_DYN_SPORT_UNIT",
+    "description": "Set EFF_DYN_SPORT_UNIT to aktiv.",
+    "steps": [
+        "3000 EFF_DYN_SPORT_UNIT: set to: aktiv"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "KOMBI",
+    "title": "Change Units in Sports Displays to ft lb and hp: DREHMOMENT",
+    "description": "Set DREHMOMENT to lb_ft.",
+    "steps": [
+        "3008 DREHMOMENT: set to: lb_ft (displays ft lb)"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "KOMBI",
+    "title": "Change Units in Sports Displays to ft lb and hp: LEISTUNG",
+    "description": "Set LEISTUNG to ps.",
+    "steps": [
+        "3008 LEISTUNG: set to: ps (displays hp)"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "HU_CIC/NBT",
+    "title": "Enable On-Screen Volume Display",
+    "description": "Set VOLUME_POPUP_DISPLAY to aktiv.",
+    "steps": [
+        "3002 VOLUME_POPUP_DISPLAY: set to: aktiv"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "HU_CIC/NBT",
+    "title": "Enable Turn Signals in HUD",
+    "description": "Set HUD_TURNSIGNAL to aktiv.",
+    "steps": [
+        "3001 HUD_TURNSIGNAL: set to: aktiv"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "HU_CIC/NBT",
+    "title": "Activate DVD-in-Motion: SPEEDLOCK_X_KMH_MAX",
+    "description": "Set SPEEDLOCK_X_KMH_MAX to werte = FF.",
+    "steps": [
+        "3000 SPEEDLOCK_X_KMH_MAX: werte = FF"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "HU_CIC/NBT",
+    "title": "Activate DVD-in-Motion: SPEEDLOCK_X_KMH_MIN",
+    "description": "Set SPEEDLOCK_X_KMH_MIN to werte = FF.",
+    "steps": [
+        "3000 SPEEDLOCK_X_KMH_MIN: werte = FF"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "HU_CIC/NBT",
+    "title": "Activate DVD-in-Motion: VIDEO_HANDBRAKE",
+    "description": "Set VIDEO_HANDBRAKE to nicht_aktiv.",
+    "steps": [
+        "3000 VIDEO_HANDBRAKE: set to: nicht_aktiv"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "HU_CIC/NBT",
+    "title": "Activate DVD-in-Motion: VIDEO_FRONT_LOCKED",
+    "description": "Set VIDEO_FRONT_LOCKED to nicht_aktiv.",
+    "steps": [
+        "3000 VIDEO_FRONT_LOCKED: set to: nicht_aktiv"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "HU_CIC/NBT",
+    "title": "Activate DVD-in-Motion: VIDEO_SPEEDLOCK_CONDITION",
+    "description": "Set VIDEO_SPEEDLOCK_CONDITION to none.",
+    "steps": [
+        "3000 VIDEO_SPEEDLOCK_CONDITION: set to: none = 00"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "HU_CIC/NBT",
+    "title": "Change Navigation Voice to British English",
+    "description": "Set VOICE_LANGUAGE_RR_US to aktiv.",
+    "steps": [
+        "3000 VOICE_LANGUAGE_RR_US: set to: aktiv"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "HU_CIC/NBT",
+    "title": "Change Navigation Language to British English",
+    "description": "Set LANGUAGE_ENGLISH_UK to master and LANGUAGE_ENGLISH_US to nicht_aktiv.",
+    "steps": [
+        "3000 LANGUAGE_ENGLISH_UK: set to: master",
+        "3000 LANGUAGE_ENGLISH_US: set to: nicht_aktiv"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "HU_CIC/NBT",
+    "title": "Import Navigation Trip",
+    "description": "Set NAVI_TRIP_IMPORT to aktiv.",
+    "steps": [
+        "3000 NAVI_TRIP_IMPORT: set to: aktiv"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "HU_CIC/NBT",
+    "title": "Propose Fuel Stops on Navigation Route",
+    "description": "Set NAVI_FUELSTOP_PROPOSAL to aktiv.",
+    "steps": [
+        "3000 NAVI_FUELSTOP_PROPOSAL: set to: aktiv"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "HU_CIC/NBT",
+    "title": "Enable Video Files from USB: ENT_CODEC_XVID",
+    "description": "Set ENT_CODEC_XVID to aktiv.",
+    "steps": [
+        "3000 ENT_CODEC_XVID: set to: aktiv"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "HU_CIC/NBT",
+    "title": "Enable Video Files from USB: ENT_CODEC_XVCD",
+    "description": "Set ENT_CODEC_XVCD to aktiv.",
+    "steps": [
+        "3000 ENT_CODEC_XVCD: set to: aktiv"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "HU_CIC/NBT",
+    "title": "Enable Video Files from USB: API_USB_VIDEO",
+    "description": "Set API_USB_VIDEO to both.",
+    "steps": [
+        "3003 API_USB_VIDEO: set to: both"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "HU_CIC/NBT",
+    "title": "Add Current GPS Location to Navigation Menu Items",
+    "description": "Set NAVI_POSITION_MENU to aktiv.",
+    "steps": [
+        "3000 NAVI_POSITION_MENU: set to: aktiv"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "HU_CIC/NBT",
+    "title": "Add Turn Signals to HUD",
+    "description": "Set HUD_TURNSIGNAL to aktiv.",
+    "steps": [
+        "3000 HUD_TURNSIGNAL: set to: aktiv"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "HU_CIC/NBT",
+    "title": "Add Weather Band Radio (CIC Only)",
+    "description": "Set RADIO_WEATHERBAND to aktiv.",
+    "steps": [
+        "3002 RADIO_WEATHERBAND: set to: aktiv"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "HU_CIC/NBT",
+    "title": "Enable Saving Video Files to NBT Hard Drive for Later Playback",
+    "description": "Set ENT_MC_VIDEO_SUPPORT to aktiv.",
+    "steps": [
+        "3000 ENT_MC_VIDEO_SUPPORT: set to: aktiv"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "HU_CIC/NBT",
+    "title": "Disable Office Function Speed Lock-Out",
+    "description": "Set OFFICE_MESSAGES_SPEEDLOCK_CONDITION to nicht_aktiv.",
+    "steps": [
+        "3000 OFFICE_MESSAGES_SPEEDLOCK_CONDITION: set to: nicht_aktiv"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "HU_CIC/NBT",
+    "title": "Enable Full Text Lines in Office While Driving",
+    "description": "Set PIM_DRIVING_TEXT_LENGTH to whole text_07.",
+    "steps": [
+        "3003 PIM_DRIVING_TEXT_LENGTH: set to: whole text_07"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "HU_CIC/NBT",
+    "title": "Disable Audible Chirp/Beep When Locking Car",
+    "description": "Set ACOUSTICAL_LOCK_CONFIRM to nicht_aktiv.",
+    "steps": [
+        "3000 ACOUSTICAL_LOCK_CONFIRM: set to: nicht_aktiv"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "HU_CIC/NBT",
+    "title": "Enable Speech Input for E-Mail or SMS",
+    "description": "Set SPEECH_2_TEXT to aktiv.",
+    "steps": [
+        "3003 SPEECH_2_TEXT: set to: aktiv"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "HU_CIC/NBT",
+    "title": "Enable Time-Stamp Display for Call Log",
+    "description": "Set TIMESTAMP_DISPLAY to aktiv.",
+    "steps": [
+        "3003 TIMESTAMP_DISPLAY: set to: aktiv"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "HU_CIC/NBT",
+    "title": "Add Temperature & PSI to Tire Monitor Screen",
+    "description": "Set RDC_SAFETY to aktiv.",
+    "steps": [
+        "3001 RDC_SAFETY: set to: aktiv"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "HU_CIC/NBT",
+    "title": "Disable Legal Disclaimer: LEGAL_DISCLAIMER_TIME",
+    "description": "Set LEGAL_DISCLAIMER_TIME to kein_ld.",
+    "steps": [
+        "3001 LEGAL_DISCLAIMER_TIME: set to: kein_ld"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "HU_CIC/NBT",
+    "title": "Disable Legal Disclaimer: MACRO_CAM_LEGALDISCLAIMER",
+    "description": "Set MACRO_CAM_LEGALDISCLAIMER to kein_ld.",
+    "steps": [
+        "3001 MACRO_CAM_LEGALDISCLAIMER: set to: kein_ld"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "HU_CIC/NBT",
+    "title": "Disable Legal Disclaimer: MACRO_NVICAM_LDISCLAIMER",
+    "description": "Set MACRO_NVICAM_LDISCLAIMER to kein_ld.",
+    "steps": [
+        "3001 MACRO_NVICAM_LDISCLAIMER: set to: kein_ld"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "HU_CIC/NBT",
+    "title": "Change i-Drive Startup Animation to ///M Logo",
+    "description": "Set STARTUP_EMBLEM to variant_01.",
+    "steps": [
+        "3001 STARTUP_EMBLEM: set to: variant_01"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "HU_CIC/NBT",
+    "title": "Enable IPCE Web Server at 172.16.222.1",
+    "description": "Set IPCE_WEBSERVER to aktiv.",
+    "steps": [
+        "3000 IPCE_WEBSERVER: set to: aktiv"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "HU_CIC/NBT",
+    "title": "Enable WiFi Hot-Spot: ENT_MC_WLAN_STREAM_DMP_COVERART",
+    "description": "Set ENT_MC_WLAN_STREAM_DMP_COVERART to aktiv.",
+    "steps": [
+        "3000 ENT_MC_WLAN_STREAM_DMP_COVERART: set to: aktiv"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "HU_CIC/NBT",
+    "title": "Enable WiFi Hot-Spot: ENT_MC_WLAN_STREAM_DMP_VIDEO",
+    "description": "Set ENT_MC_WLAN_STREAM_DMP_VIDEO to aktiv.",
+    "steps": [
+        "3000 ENT_MC_WLAN_STREAM_DMP_VIDEO: set to: aktiv"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "HU_CIC/NBT",
+    "title": "Enable WiFi Hot-Spot: ENT_MC_WLAN_STREAM_DMP",
+    "description": "Set ENT_MC_WLAN_STREAM_DMP to aktiv.",
+    "steps": [
+        "3000 ENT_MC_WLAN_STREAM_DMP: set to: aktiv"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "HU_CIC/NBT",
+    "title": "Enable WiFi Hot-Spot: WLAN_STATUS",
+    "description": "Set WLAN_STATUS to aktiv.",
+    "steps": [
+        "3003 WLAN_STATUS: set to: aktiv"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "HU_CIC/NBT",
+    "title": "Enable WiFi Hot-Spot: WLAN_MODUS",
+    "description": "Set WLAN_MODUS to ap.",
+    "steps": [
+        "3003 WLAN_MODUS: set to: ap"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "HU_CIC/NBT",
+    "title": "Enable WiFi Hot-Spot: WLAN_SIGNAL_STRENGTH",
+    "description": "Set WLAN_SIGNAL_STRENGTH to outdoor.",
+    "steps": [
+        "3003 WLAN_SIGNAL_STRENGTH: set to: outdoor"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "HU_CIC/NBT",
+    "title": "Enable Developer Menu",
+    "description": "Set ENTWICKLER_MENUE to aktiv 01.",
+    "steps": [
+        "3000 ENTWICKLER_MENUE: set to: aktiv 01"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "IHKA",
+    "title": "A/C System Remembers Last Setting",
+    "description": "Set OFF_MEMORY to aktiv.",
+    "steps": [
+        "3000 OFF_MEMORY: set to aktiv-werte = 01"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "IHKA",
+    "title": "Always Remember Air Recirculation",
+    "description": "Set MEMORY_UMLUFT to aktiv.",
+    "steps": [
+        "3000 MEMORY_UMLUFT: set to: aktiv"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "JBBF",
+    "title": "Opening Rear Doors Will Not Interrupt Windows",
+    "description": "Set FH_TUER_AUF_STOP_MAUT to nicht_aktiv.",
+    "steps": [
+        "3070 FH_TUER_AUF_STOP_MAUT: set to nicht_aktiv - werte = 00"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "JBBF",
+    "title": "Disable Headlight Washers",
+    "description": "Set SCHEINWERFERREINIGUNG to nicht_aktiv.",
+    "steps": [
+        "3000 SCHEINWERFERREINIGUNG: set to: nicht_aktiv"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "JBBF",
+    "title": "Increase Auto Wiper Sensitivity: RLS_FLC_SCHWELLWERT_SATZ_1",
+    "description": "Set RLS_FLC_SCHWELLWERT_SATZ_1 to werte = 05.",
+    "steps": [
+        "3530 RLS_FLC_SCHWELLWERT_SATZ_1: set to: werte = 05"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "JBBF",
+    "title": "Increase Auto Wiper Sensitivity: RLS_FLC_SCHWELLWERT_SATZ_2",
+    "description": "Set RLS_FLC_SCHWELLWERT_SATZ_2 to werte = 09.",
+    "steps": [
+        "3530 RLS_FLC_SCHWELLWERT_SATZ_2: set to: werte = 09"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "JBBF",
+    "title": "Increase Auto Wiper Sensitivity: RLS_FLC_SCHWELLWERT_SATZ_3",
+    "description": "Set RLS_FLC_SCHWELLWERT_SATZ_3 to werte = 0D.",
+    "steps": [
+        "3530 RLS_FLC_SCHWELLWERT_SATZ_3: set to: werte = 0D"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "JBBF",
+    "title": "Increase Auto Light Sensitivity: RLS_DEF_FLC_SCHWELLWERT_SATZ",
+    "description": "Set RLS_DEF_FLC_SCHWELLWERT_SATZ to an option below.",
+    "steps": [
+        "3530 RLS_DEF_FLC_SCHWELLWERT_SATZ: set to: option below (normal, sensitive, very_sensitive, insensitive)"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "JBBF",
+    "title": "Increase Auto Light Sensitivity: RLS_FLC_SCHWELLWERT_SATZ",
+    "description": "Set RLS_FLC_SCHWELLWERT_SATZ to an option below.",
+    "steps": [
+        "3530 RLS_FLC_SCHWELLWERT_SATZ: set to: option below (normal, sensitive, very_sensitive, insensitive)"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "KAFAS2",
+    "title": "High Beam Assistant - Auto-On: FLA_ON_OFF",
+    "description": "Set FLA_ON_OFF to aktiv.",
+    "steps": [
+        "3050 FLA_ON_OFF: set to: aktiv - werte = 01"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "KOMBI",
+    "title": "Show Digital Speed in MPH in Cluster",
+    "description": "Set BC_DIGITAL_V to aktiv.",
+    "steps": [
+        "3000 BC_DIGITAL_V: set to: aktiv-werte = 01"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "KOMBI",
+    "title": "Show Turn Signals in HUD: HUD_PIA_BLINKER",
+    "description": "Set HUD_PIA_BLINKER to aktiv.",
+    "steps": [
+        "3008 HUD_PIA_BLINKER: set to: aktiv"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "KOMBI",
+    "title": "Show Turn Signals in HUD: BLINKER_HUD_ENABLE",
+    "description": "Set BLINKER_HUD_ENABLE to aktiv.",
+    "steps": [
+        "3000 BLINKER_HUD_ENABLE: set to: aktiv"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "KOMBI",
+    "title": "Enable GPS Sync for Clock",
+    "description": "Set GPS_UHR to aktiv.",
+    "steps": [
+        "3000 GPS_UHR: set to: aktiv"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "KOMBI",
+    "title": "Enable HUD for Entertainment & Phone List: HUD_ENTERTAINMENT_ENABLE",
+    "description": "Adds a checkbox under HUD settings - Display Information menu. Set HUD_ENTERTAINMENT_ENABLE to aktiv.",
+    "steps": [
+        "3000 HUD_ENTERTAINMENT_ENABLE: set to: aktiv"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "KOMBI",
+    "title": "Enable HUD for Entertainment & Phone List: HUD_TELEFONANRUF_ENABLE",
+    "description": "Set HUD_TELEFONANRUF_ENABLE to aktiv.",
+    "steps": [
+        "3000 HUD_TELEFONANRUF_ENABLE: set to: aktiv"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "KOMBI",
+    "title": "Enable HUD for Entertainment & Phone List: HUD_TELEFONBUCH_ENABLE",
+    "description": "Set HUD_TELEFONBUCH_ENABLE to aktiv.",
+    "steps": [
+        "3000 HUD_TELEFONBUCH_ENABLE: set to: aktiv"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "KOMBI",
+    "title": "Enable HUD for Entertainment & Phone List: HUD_ENTERTAINMENTLIST",
+    "description": "Set HUD_ENTERTAINMENTLIST to aktiv.",
+    "steps": [
+        "3000 HUD_ENTERTAINMENTLIST: set to: aktiv"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "PDC",
+    "title": "Enable Rear-View Camera at all Speeds: D_SCHWELLE_2",
+    "description": "Set D_SCHWELLE_2 to werte = FF.",
+    "steps": [
+        "3009 D_SCHWELLE_2: Werte = FF"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "PDC",
+    "title": "Enable Rear-View Camera at all Speeds: V_SCHWELLE_2",
+    "description": "Set V_SCHWELLE_2 to werte = FF.",
+    "steps": [
+        "3009 V_SCHWELLE_2: Werte = FF"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "SZL",
+    "title": "Enable Paddle Shifters (for Retrofits)",
+    "description": "Set Lenkrad_Schaltpaddles to aktiv.",
+    "steps": [
+        "3000 Lenkrad_Schaltpaddles: set to: aktiv"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "TRSVC",
+    "title": "Enable Side-View Cameras at all Speeds: SV_Activate_Speed_Limit",
+    "description": "Set SV_Activate_Speed_Limit to werte = FF.",
+    "steps": [
+        "3000 SV_Activate_Speed_Limit: Werte = FF"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
+{
+    "ecu": "TRSVC",
+    "title": "Enable Side-View Cameras at all Speeds: SV_Deactivate_Speed",
+    "description": "Set SV_Deactivate_Speed to werte = FF.",
+    "steps": [
+        "3000 SV_Deactivate_Speed: Werte = FF"
+    ],
+    "source": "BMW Coding Parameters - F01 - For 5GT and 7 Series_230509_202333.pdf"
+},
     {
         "ecu": "BDC_BODY2",
         "title": "G30 Remote Engine Start Coding: TCM_REMOTE_START",
