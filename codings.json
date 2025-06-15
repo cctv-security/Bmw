@@ -7918,5 +7918,53 @@
             "1. BDC -> Expert -> 3221 PfFesMaster -> FesSportWorldMode1 -> SportExpert -> Code",
             "2. MGU ->FES_SPORT_EXPERT -> aktiv"
         ]
+    },
+    {
+        "ecu": "1 NEW options",
+        "id": "",
+        "function": "",
+        "title": "Auto Steering Heat",
+        "description": "Auto Steering Heat",
+        "steps": [
+            "1. MGU->AKT_Auto_Lenkrad-> aktiv",
+            "2. BDC->LHZ_CCM_IKF-> aktivIKF_EN",
+            "3. BDC->IKF_ENABLE: ikf_alle_size"
+        ]
+    },
+    {
+        "ecu": "1 NEW options",
+        "id": "",
+        "function": "",
+        "title": "Rear DRL",
+        "description": "Rear DRL",
+        "steps": [
+            "Rear DRL",
+            "1. HU_MGU->HMI_SPEECH->DAYDRIVING_LIGHT_REAR->aktiv",
+            "2. BDC in Expert Mode > 3702LicFeatures->Feature_4 ->activ"
+        ]
+    },
+    {
+        "ecu": "1 NEW options",
+        "id": "",
+        "function": "",
+        "title": "Enable Bowers & Wilkins HI FI & Equaliser",
+        "description": "Enable Bowers & Wilkins HI FI\n & Equaliser",
+        "steps": [
+            "Headunit - MGU",
+            "3002 - Audio Broadcast – Audio System then change the parameters from alev3-Ram to alev4-Ram code"
+        ]
+    },
+    {
+        "ecu": "1 NEW options",
+        "id": "",
+        "function": "",
+        "title": "Assisted Driving View (cars before 07/19):",
+        "description": "Assisted Driving View (cars before 07/19):",
+        "steps": [
+            "DKOMBI:",
+            "CB_FZG_UMGEBUNG_FAS -> aktiv",
+            "CB_PRESELECT_NAVI_ANSICHT_FZG_UMGEBUNG -> aktiv",
+            "PIA_FZG_UMGEBUNG_FAS -> aktiv"
+        ]
     }
 ]
