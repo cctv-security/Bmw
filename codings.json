@@ -7980,5 +7980,21 @@
             "Enter the code into the program",
             "Follow the instructions and wait until the process is complete"
         ]
+    },
+    {
+        "ecu": "1 NEW options",
+        "id": "",
+        "function": "",
+        "title": "NBT Upgrade – ID4 to ID6",
+        "description": "NBT Upgrade – ID4 to ID6",
+        "steps": [
+            "NBT Upgrade – ID4 to ID6",
+            "🔻 Download the DTAT files from the following link:",
+            "https://getshared.com/ohLmqtWe",
+            "▶️ Follow the steps exactly as shown in this video:",
+            "https://www.youtube.com/watch?v=mL_Brt7V2i8",
+            "⚠️ Make sure to follow each step carefully and in order.",
+            "✅ Once completed, you can go back to CARPLAY under the 1NEW options in AQ///cheaToll to get steps and ccode"
+        ]
     }
 ]
