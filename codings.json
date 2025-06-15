@@ -8018,5 +8018,26 @@
             "HU->3221-> PfFestMaster (no one tells you that)",
             "-> FesHasMode  set -> Aktive"
         ]
+    },
+    {
+        "ecu": "HU_MGU",
+        "id": "",
+        "function": "",
+        "title": "ANDROID AUTO",
+        "description": "",
+        "steps": [
+            "HU_MGU_01 --> CONNECTIVITY_A4A 3001 -> A4A = aktiv",
+            "HU_MGU_01 -> CONNECTIVITY_A4A 3001 -> A4A_ANDROID = aktiv",
+            "HU_MGU_01 -> CONNECTIVITY_A4A 3001 -> A4A_PIA = aktiv",
+            "HU_MGU_01 -> CONNECTIVITY_A4A 3001 -> A4A_REMOTE_APPS = aktiv",
+            "HU_MGU_01 -> CONNECTIVITY_A4A 3001 -> A4A_STT_SPELLER_INPUT = aktiv",
+            "HU_MGU_01 -> CONNECTIVITY_A4A 3001 -> A4A_SWT = aktiv",
+            "HU_MGU_01 -> CONNECTIVITY_A4A 3001 -> A4A_WIRELESS_ANDROID = aktiv",
+            "HU_MGU_01 -> CONNECTIVITY_A4A 3001 -> A4A_WIRELESS_IOS = aktiv",
+            "HU_MGU_01 -> CONNECTIVITY_A4A 3001 -> REMOTE_HMI = aktiv",
+            "HU_MGU_01 -> CONNECTIVITY_A4A 3001 -> WLAN_WIFI_MODE = ap+go",
+            "HU_MGU_01 -> SYSTEM_CONFIGURATION 3004 -> CARPLAY_SWT = aktiv",
+            "HU_MGU_01 -> TELEMATICS 3003 -> WLAN_DIAGNOSE = aktiv"
+        ]
     }
 ]
