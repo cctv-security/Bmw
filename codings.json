@@ -7907,5 +7907,16 @@
             "HMI_BRAND              Werte=04  (///M)",
             "BAUREIHE                 Werte=96  (Werts: 96 = F90 or  88 = F97 or 89 = F98)"
         ]
+    },
+    {
+        "ecu": "1 NEW options",
+        "id": "",
+        "function": "Sport+",
+        "title": "Sport+",
+        "description": "Sport+",
+        "steps": [
+            "1. BDC -> Expert -> 3221 PfFesMaster -> FesSportWorldMode1 -> SportExpert -> Code",
+            "2. MGU ->FES_SPORT_EXPERT -> aktiv"
+        ]
     }
 ]
