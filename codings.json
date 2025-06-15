@@ -8010,11 +8010,11 @@
         "title": "MINI and old EVO  Enable Sports Displays",
         "description": "Enable Sports Displays\nMINI and old EVO",
         "steps": [
-            "3000EFF_DYN_SPORT_CID set to: aktiv",
-            "3000EFF_DYN_SPORT_UNIT set to: aktiv",
+            "3000->EFF_DYN_SPORT_CID -> set to: aktiv",
+            "3000->EFF_DYN_SPORT_UNIT -> set to aktiv",
             "* To change units displayed to be ft lb and hp",
-            "KOMBI3008DREHMOMENT set to: lb_ft (displays ft lb)",
-            "KOMBI3008LEISTUNG set to: ps (displays hp)",
+            "KOMBI->3008->DREHMOMENT set to-> lb_ft (displays ft lb)",
+            "KOMBI->3008->LEISTUNG set to -> ps (displays hp)",
             "HU->3221-> PfFestMaster (no one tells you that)",
             "-> FesHasMode  set -> Aktive"
         ]
