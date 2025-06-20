@@ -1,1 +1,10 @@
-
+[
+    {
+        "ecu": "UPDATE",
+        "id": "",
+        "function": "",
+        "title": "Wait For new update",
+        "description": "",
+        "steps": []
+    }
+]
