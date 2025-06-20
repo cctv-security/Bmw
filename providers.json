@@ -1,1 +1,36 @@
-
+{
+    "name": "ALEX",
+    "service": "Remote Services & Files",
+    "contact": "+32 485 84 14 48",
+    "website": "",
+    "telegram": "",
+    "whatsapp": "https://wa.me/32485841448",
+    "facebook": "faceLink",
+    "services_offered": [
+        "Full BMW Air Service History to language of choice: €10",
+        "Apple CarPlay + Android Auto for MGU ID7 With or Without ATM: €100",
+        "Apple CarPlay + Android Auto for MGU ID8 With or Without ATM: €100",
+        "RTTI + Weather unlimited for BMW (Connected Drive Services should work): €75",
+        "Factory Generated FA (XML Format): €5",
+        "BMW OEM FSC Repair Kit: €10",
+        "BMW OEM SFA Repair Kit: €15",
+        "BMW NCD2.0 Coding Files based on your FA + SVT (all ECU's): €40",
+        "BMW NCD2.0 Coding Files (Single ECU up to 3): €25",
+        "- Change Typekey",
+        "- Add Language",
+        "- Remove Speed Warning (Indian Market)",
+        "- Disable Telematic",
+        "Feature Installer Code for BMW NBT Evo: RTTI + Weather: €15",
+        "Feature Installer Codes for BMW NBT Evo / EntryNav2 (EVO) Lifetime Maps + CarPlay + Full Screen if firmware allows it: €25",
+        "Feature Installer Codes per function standalone: €10",
+        "ECU Validation by CBB Request: €15",
+        "HU NBT Virginizing via Feature Installer + Retrofit FSC: €25",
+        "1AA OEM FSC after BDC Replace possible (MGU18/21): €250",
+        "Remove Component Protection (MGU22): €250",
+        "SecOC: €150",
+        "LCS: €150",
+        "Token KDS: €250",
+        "Diagtokens: €50",
+        "Kafas 4 Virginize: €100"
+    ]
+}
