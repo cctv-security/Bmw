@@ -1,10 +1,63 @@
 [
-    {
-        "ecu": "UPDATE",
-        "id": "",
-        "function": "",
-        "title": "Wait For new update",
-        "description": "https://chat.whatsapp.com/HUAj4QH196hGSSeILo11Tj",
-        "steps": []
-    }
+  {
+    "ecu": "UPDATE",
+    "id": "",
+    "function": "",
+    "title": "Wait For new update",
+    "description": "https://chat.whatsapp.com/HUAj4QH196hGSSeILo11Tj",
+    "steps": []
+  },
+  {
+    "ecu": "SCAMMERS",
+    "id": "",
+    "function": "",
+    "title": "Please do not buy from this fraudster.",
+    "description": "This individual, operating under the number ‪+57 315 4159793‬ and the online account 'Coding And Programming', has stolen the 'AQ///cheaTool: BMW Coding and Modification' program.",
+    "steps": [
+      {
+        "step_title": "AQ///cheaTool: BMW Coding and Modification",
+        "step_description": "AQ///cheaTool: The Ultimate BMW Coding & Modification Program\nUnleash the full potential of your BMW with AQ///cheaTool – a comprehensive solution for all your coding, activation, and retrofit needs!"
+      },
+      {
+        "step_title": "Features and Capabilities",
+        "step_description": "Comprehensive Coding Program\nOur program offers unparalleled versatility, supporting all BMW models for a wide range of functions:\nAll Coding: Access and modify every codable parameter in your BMW.\nActivations: Enable hidden features and functionalities.\nRetrofits: Seamlessly integrate new hardware components.\nEven EVO HDD Changes: Perform advanced modifications, including hard drive changes on EVO units."
+      },
+      {
+        "step_title": "Application Method",
+        "step_description": "Manual Application & Command Execution\nPrecise Control Features\nGain precise control with our detailed manual application and command replication features:\nDetailed Manual Application: Step-by-step guidance for manual operations.\nCommand Replication: Easily copy and paste commands for efficient execution.\nDirect Connection & Command Sending: A dedicated tool for direct connection and sending commands, integrated with a built-in library and Putty support."
+      },
+      {
+        "step_title": "iDrive System Upgrade and CarPlay Integration",
+        "step_description": "ID4/5/6 Flashing & CarPlay Integration\nUpgrade your iDrive system and integrate Apple CarPlay:\nFlash ID4 to ID5/6 + CarPlay: Transform your ID4 unit into the latest ID5/6 system with integrated CarPlay.\nData and Video: Download data and apply video steps manually.\nEVO Image Change (Manual): Manually change EVO images for all units, including CIC, NBT, NBTEVO, and Entrynav.\nAutomatic Functionality: Many processes are also automated for ease of use.\nFile Transfer & Permissions: Detailed instructions on file transfer, obtaining permissions, and adding new paths."
+      },
+      {
+        "step_title": "Startup and Connection Tools",
+        "step_description": "Custom Startup Animation: Learn how to change the startup animation.\nIntegrated Direct Connection Tool (NBTevo Only): A specialized tool for direct connection and command execution specifically for NBTevo units."
+      },
+      {
+        "step_title": "Pre-LCI and LCI Model Updates",
+        "step_description": "Pre-LCI & LCI Updates\nKeep your BMW up-to-date with the latest features:\nPre-LCI Stage 1/2 Creator Tool (Welcome Lights): Customize welcome light sequences for Pre-LCI models.\nTons of LCI Updates: Access a vast library of updates for LCI models."
+      },
+      {
+        "step_title": "Control Unit Message Management",
+        "step_description": "Control Unit Message Handling\nMaster control unit communication and error messages:\nCC Messages: Understand and manage all control unit messages.\nDetailed Explanations: Comprehensive explanations for each message.\nDirect Text Copy for Search: Easily copy message text for quick parameter search.\nE-Sys Coding Steps: Detailed instructions on performing coding via E-Sys.\nDirect In-Car Cc Message Retrieval: Learn how to directly retrieve id cc messages from your vehicle."
+      },
+      {
+        "step_title": "Additional Tools",
+        "step_description": "MGU Tool, FSC Generator, & Behram Tool\nEssential Modification Tools\nEssential tools for advanced modifications:\nMGU Tool: (For updates only, not region changes)\nFSC Generator: Generate FSC codes for navigation update.\nCarPlay & Android Auto: Activate CarPlay and Android Auto functionalities.\nBehram Tool: Includes files for automatic file transfer, command replication, and unlocking VINs.\nStep-by-Step Instructions: Comprehensive, easy-to-follow instructions."
+      },
+      {
+        "step_title": "Reliable Service and File Providers",
+        "step_description": "Remote Service Providers & Trusted BMW File Sellers\nConnect with reliable resources:\nRemote Service Providers Window: A dedicated section to connect with trusted remote coding service providers.\nTrusted BMW Code & File Sellers Window: Access a list of verified sellers for BMW codes and files."
+      },
+      {
+        "step_title": "Program Registration and Payment",
+        "step_description": "To register for the program and obtain an activation key:\n1. Pay via PayPal: 150$ to gopromaker97@gmail.com\n2. Send your payment confirmation and registered email to receive your activation key."
+      },
+      {
+        "step_title": "Download Link",
+        "step_description": "https://mega.nz/file/cUUnRYKY#ggWBO8iYXX5q9bgcRXV0A8YvdMfhk_o2RBZrw877XIo"
+      }
+    ]
+  }
 ]
